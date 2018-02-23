@@ -1,3 +1,4 @@
+/* CSS stylesheet for all pages of italiansocietysussex */
 body{
     background-color: lightblue;
     font-family: sans-serif;
@@ -41,4 +42,16 @@ nav ul li{
 .fa-instagram{
     background: royalblue;
     color: white;
+}
+#topbtn{
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    border: none;
+    outline: none;
+    background-color: red;
+    color: white;
+    padding: 10px;
+    border-radius: 70%;
+    font-size: 16px;
 }
